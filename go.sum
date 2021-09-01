@@ -1,0 +1,5 @@
+github.com/luzejia/go-mod-test-b v0.0.1 h1:Uqa6k/GMn9DbMk/lNazmXA2U0U9mfHJhprZ4X064M8g=
+github.com/luzejia/go-mod-test-b v0.0.1/go.mod h1:l5y8/CradL1EZz9cnHWcp1q4CyFlmzmBLbHRe47xQvU=
+github.com/luzejia/go-mod-test-c v0.0.1 h1:nUf2El6MPEVuzrtN1dVBf3q2mK5pYb4vzTJlhI0ub9Q=
+github.com/luzejia/go-mod-test-c v0.0.1/go.mod h1:HP5/WCB/5rCvLiLCvMOSbBUuXV5slftoxgL9B3Z1hIE=
+github.com/luzejia/go-mod-test-d v0.0.1/go.mod h1:fn7GTVfUeFA7h1n6rXKrq9ukr0TDQyI6/HddyxIpxn0=
